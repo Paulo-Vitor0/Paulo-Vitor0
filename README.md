@@ -1,78 +1,83 @@
 <div align="center">
 
-# 🪄 PAULO
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120C18,50:241B35,100:0D1117&height=170&section=header&text=PAULO&fontSize=65&fontColor=D4AF37&animation=fadeIn&fontAlignY=45"/>
 
-### `Um estudante em sua jornada pela magia do código.`
+### 🪄 `THE WIZARD CODER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=19&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+cantinho+%E2%9C%A8;2%C2%BA+ano+do+Ensino+M%C3%A9dio+%F0%9F%93%9A;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Cada+linha+de+c%C3%B3digo+%C3%A9+uma+nova+aventura+%F0%9F%AA%84"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=18&pause=1300&color=D4AF37&center=true&vCenter=true&width=600&lines=Student+of+the+Code+%E2%9A%A1;Second+Year+%F0%9F%93%96;Systems+Development+%F0%9F%92%BB;The+journey+has+just+begun...+%E2%9C%A8"/>
 
 </div>
 
 ---
 
-## 🏰 Sobre mim
+<div align="center">
 
-> *“São nossas escolhas que mostram quem realmente somos.”*
+### 🏰 `THE STORY BEGINS...`
+
+</div>
 
 🎓 **2º ano do Ensino Médio**
 🏫 **CEPI Osvaldo**
 💻 **Técnico em Desenvolvimento de Sistemas**
 
-Sou estudante e estou começando minha jornada no mundo da tecnologia.
+Entre livros, códigos e ideias, estou construindo minha própria história na tecnologia.
 
-Entre códigos, projetos e alguns bugs pelo caminho, estou descobrindo meu próprio jeito de transformar **ideias em realidade**.
-
----
-
-## 🪄 Minha jornada
-
-```text
-        📖 APRENDER
-             │
-             ▼
-        🪄 EXPERIMENTAR
-             │
-             ▼
-        💻 CRIAR
-             │
-             ▼
-          🐛 BUGS
-             │
-             ▼
-        ✨ APRENDER
-             │
-             ▼
-          🚀 EVOLUIR
-```
-
----
-
-## 🦉 Uma pequena mensagem
-
-Nem todo mundo começa sabendo onde vai chegar.
-
-Alguns simplesmente pegam sua varinha, abrem o primeiro livro e começam.
-
-**Essa é a minha jornada.**
-
-📚 Um pouco de estudo.
-💻 Um pouco de código.
-🪄 Um pouco de magia.
-
-E muitos capítulos ainda por escrever...
+Ainda existem muitos caminhos para explorar, muitos projetos para criar e, provavelmente, muitos bugs para derrotar. 🐉
 
 ---
 
 <div align="center">
 
-### ⚡ `CODE • CREATE • BELIEVE`
+## ⚡ `THE MAGIC OF CODE`
 
-🪄 ───────────────────── ⚡ ───────────────────── 🪄
+```text
+       ✦
+      / \
+     /   \        📖
+    /_____\      ╱
+       │        ╱
+       │       ╱
+       ▼      ▼
 
-### *“A magia começa quando você decide tentar.”*
+    IDEA  ──→  CODE  ──→  MAGIC
+                         ✨
+```
+
+</div>
+
+---
+
+## 🦉 `CURRENT QUEST`
+
+> **Aprender. Criar. Evoluir.**
+
+Minha missão é simples:
+
+**transformar curiosidade em conhecimento
+e conhecimento em projetos.**
+
+---
+
+<div align="center">
+
+### 🪄 `CHAPTER I`
+
+**O começo de uma jornada.**
 
 <br>
 
-**Paulo • 2026**
+`📚 Study`　`⚡ Create`　`✨ Evolve`
+
+<br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### *“Todo grande bruxo um dia foi apenas um aprendiz.”*
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+**PAULO · 2026**
 
 </div>
