@@ -2,66 +2,77 @@
 
 # 🪄 PAULO
 
-### `Developer in Training ⚡`
+### `Um estudante em sua jornada pela magia do código.`
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=20&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+cantinho+%F0%9F%AA%84;Estudante+de+Desenvolvimento+de+Sistemas;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=19&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+cantinho+%E2%9C%A8;2%C2%BA+ano+do+Ensino+M%C3%A9dio+%F0%9F%93%9A;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+%F0%9F%92%BB;Cada+linha+de+c%C3%B3digo+%C3%A9+uma+nova+aventura+%F0%9F%AA%84"/>
 
 </div>
 
 ---
 
-## 🧙 Sobre mim
+## 🏰 Sobre mim
 
-> *"São nossas escolhas que mostram quem realmente somos."*
+> *“São nossas escolhas que mostram quem realmente somos.”*
 
 🎓 **2º ano do Ensino Médio**
 🏫 **CEPI Osvaldo**
 💻 **Técnico em Desenvolvimento de Sistemas**
 
-Sou estudante e desenvolvedor em formação, explorando o mundo da programação e transformando ideias em pequenos projetos.
+Sou estudante e estou começando minha jornada no mundo da tecnologia.
 
----
-
-## ⚡ Minhas habilidades
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
-
-</div>
+Entre códigos, projetos e alguns bugs pelo caminho, estou descobrindo meu próprio jeito de transformar **ideias em realidade**.
 
 ---
 
 ## 🪄 Minha jornada
 
 ```text
-📚 Aprender
-     ↓
-🪄 Experimentar
-     ↓
-💻 Programar
-     ↓
-🐛 Enfrentar os bugs
-     ↓
-✨ Evoluir
+        📖 APRENDER
+             │
+             ▼
+        🪄 EXPERIMENTAR
+             │
+             ▼
+        💻 CRIAR
+             │
+             ▼
+          🐛 BUGS
+             │
+             ▼
+        ✨ APRENDER
+             │
+             ▼
+          🚀 EVOLUIR
 ```
 
 ---
 
-## 🏰 Meu objetivo
+## 🦉 Uma pequena mensagem
 
-Quero construir meu caminho na tecnologia, aprender cada vez mais e transformar **curiosidade em conhecimento** e **conhecimento em projetos**.
+Nem todo mundo começa sabendo onde vai chegar.
+
+Alguns simplesmente pegam sua varinha, abrem o primeiro livro e começam.
+
+**Essa é a minha jornada.**
+
+📚 Um pouco de estudo.
+💻 Um pouco de código.
+🪄 Um pouco de magia.
+
+E muitos capítulos ainda por escrever...
+
+---
 
 <div align="center">
 
-### ⚡ `Código também é uma forma de magia.`
+### ⚡ `CODE • CREATE • BELIEVE`
+
+🪄 ───────────────────── ⚡ ───────────────────── 🪄
+
+### *“A magia começa quando você decide tentar.”*
 
 <br>
 
-🪄 ──────────────── ⚡ ──────────────── 🪄
-
-<br><br>
-
-**"A magia está em continuar tentando."**
+**Paulo • 2026**
 
 </div>
