@@ -27,7 +27,6 @@ Ainda existem muitos caminhos para explorar, muitos projetos para criar e, prova
 ---
 
 ## 🦉 `MISSÃO ATUAL`
-
 > **Aprender. Criar. Evoluir.**
 
 Minha missão é simples:
