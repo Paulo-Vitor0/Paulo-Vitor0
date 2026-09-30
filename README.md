@@ -1,206 +1,170 @@
-<div align="center">
+ <div align="center">
 
-# 👨‍💻 PAULO
+# `PAULO.`
 
-### `Estudante • Desenvolvedor em formação • Criador de ideias`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+🚀;Transformando+ideias+em+código.;Aprendendo.+Criando.+Evoluindo." alt="Typing SVG" />
+### Desenvolvendo ideias. Construindo possibilidades.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=blueviolet\&style=for-the-badge)
+**🎓 Ensino Médio • 💻 Desenvolvimento de Sistemas • 🚀 Tecnologia**
 
 </div>
 
 ---
 
-## 🧠 `whoami`
+## `> Sobre mim`
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  👋 Olá! Eu sou o Paulo.                            │
-│                                                      │
-│  🎓 2º ano do Ensino Médio                          │
-│  💻 Técnico em Desenvolvimento de Sistemas          │
-│  🏫 CEPI Osvaldo                                    │
-│                                                      │
-│  🚀 Construindo meu futuro através da tecnologia.   │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-Sou estudante e desenvolvedor em formação, apaixonado pelo universo da tecnologia e curioso para descobrir tudo o que existe por trás de uma tela.
-
-Atualmente, estudo **Desenvolvimento de Sistemas** junto ao Ensino Médio e utilizo este espaço para registrar minha evolução, compartilhar projetos e transformar aquilo que aprendo em código.
-
-> **"Não estou apenas aprendendo a programar.
-> Estou aprendendo a criar."** ✨
-
----
-
-# 🎓 Formação
-
-<table>
-<tr>
-<td>🏫</td>
-<td><b>Instituição</b></td>
-<td>CEPI Osvaldo</td>
-</tr>
-
-<tr>
-<td>📚</td>
-<td><b>Ensino</b></td>
-<td>2º ano do Ensino Médio</td>
-</tr>
-
-<tr>
-<td>💻</td>
-<td><b>Curso Técnico</b></td>
-<td>Desenvolvimento de Sistemas</td>
-</tr>
-</table>
-
----
-
-# 💻 `tech_stack`
-
-### 🧩 Desenvolvimento
-
-```text
-HTML       █████████░░░░░░░
-CSS        ████████░░░░░░░░
-JavaScript ██████░░░░░░░░░░
-Python     █████░░░░░░░░░░░
-```
-
-> 📌 Meu conhecimento está em constante evolução.
-
-### 🛠️ Ferramentas
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</p>
-
----
-
-# 🚀 O que estou fazendo agora?
-
-```javascript
+```js
 const paulo = {
-    status: "aprendendo",
-    foco: "desenvolvimento de sistemas",
-    objetivo: "evoluir constantemente",
-
-    atualmente: [
-        "Estudando programação",
-        "Criando projetos",
-        "Desenvolvendo minha lógica",
-        "Explorando novas tecnologias"
-    ],
-
-    filosofia: "Aprender → Praticar → Criar → Evoluir"
+    nome: "Paulo",
+    formação: "Ensino Médio + Técnico em Desenvolvimento de Sistemas",
+    instituição: "CEPI Osvaldo",
+    série: "2º ano",
+    área: "Tecnologia",
+    objetivo: "me tornar cada vez melhor no que faço"
 };
 ```
 
----
+Olá! 👋
 
-# 🛠️ Projetos
+Sou estudante do **2º ano do Ensino Médio** no **CEPI Osvaldo**, onde também curso **Técnico em Desenvolvimento de Sistemas**.
 
-> **Cada projeto é uma parte da minha evolução.**
+Estou no começo da minha jornada na tecnologia, explorando programação, desenvolvimento e tudo que envolve transformar uma ideia em algo que realmente funciona.
 
-|   🚀 Projeto  | 📌 Descrição | 🔥 Status |
-| :-----------: | :----------- | :-------: |
-| 💻 Projeto 01 | Em breve...  |     🟡    |
-| 🌐 Projeto 02 | Em breve...  |     ⚪     |
-| 🤖 Projeto 03 | Em breve...  |     ⚪     |
+Este GitHub é onde pretendo guardar uma parte dessa jornada.
 
-### 📂 Em construção...
-
-Estou constantemente criando novos projetos para colocar meus conhecimentos em prática.
-
-**Este espaço vai crescer junto comigo.** 🌱
+**Projetos, experimentos, erros, aprendizados e evolução.**
 
 ---
 
-# 📊 Minha evolução
+## `> Minha jornada`
 
 ```text
-2026
- │
- ├── 📚 Aprender
- │
- ├── 💻 Programar
- │
- ├── 🛠️ Criar
- │
- ├── 🐛 Errar
- │
- ├── 🔎 Entender
- │
- ├── 🚀 Melhorar
- │
- └── ⭐ Repetir
+             2026
+               │
+               ▼
+        ┌──────────────┐
+        │    APRENDER  │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   PRATICAR   │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │    CRIAR     │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐
+        │   EVOLUIR    │
+        └──────┬───────┘
+               │
+               └───────────► 🚀
 ```
 
-### 🎯 Meu objetivo
+Não quero apenas aprender a linguagem.
 
-Construir uma base sólida em tecnologia, desenvolver projetos cada vez mais completos e, no futuro, transformar minha paixão por programação em uma carreira.
+Quero aprender a **pensar como alguém que resolve problemas**.
 
 ---
 
-# 🌌 Além do código
+## `> O que estou estudando`
 
-Programação não é apenas escrever linhas de código.
-
-É aprender a pensar.
-
-É transformar um problema em uma solução.
-
-É ter uma ideia e descobrir:
+### 💻 Desenvolvimento
 
 ```text
-"Será que eu consigo criar isso?"
-                 ↓
-              TENTAR
-                 ↓
-              ERRAR
-                 ↓
-             APRENDER
-                 ↓
-              CRIAR 🚀
+▸ Lógica de programação
+▸ Desenvolvimento de sistemas
+▸ Desenvolvimento web
+▸ Estrutura e organização de projetos
+▸ Git & GitHub
 ```
 
-E é exatamente isso que estou fazendo.
+### 🧠 Habilidades
+
+```text
+01. Curiosidade
+02. Criatividade
+03. Resolução de problemas
+04. Trabalho em equipe
+05. Aprendizado contínuo
+```
 
 ---
 
-# 📫 Conecte-se comigo
+## `> Projetos`
+
+### 🔨 Construindo...
+
+Meu GitHub ainda está no começo — e isso faz parte da história.
+
+Cada projeto que aparecer aqui vai representar algo que aprendi.
+
+```text
+📁 projects
+│
+├── 🌐 web
+├── 💻 systems
+├── 🧪 experiments
+└── 🚀 future-projects
+```
+
+**Primeiro projeto → primeiro passo.**
+**Segundo projeto → mais experiência.**
+**Décimo projeto → outra versão de mim.**
+
+---
+
+## `> Minha visão`
+
+> **"Você não precisa saber tudo para começar.
+> Precisa começar para aprender."**
+
+A tecnologia muda todos os dias.
+
+Por isso, meu objetivo não é saber tudo.
+
+É continuar aprendendo.
+
+---
+
+## `> Futuro`
+
+Hoje:
+
+**🎓 Estudante**
+
+↓
+
+Amanhã:
+
+**💻 Desenvolvedor**
+
+↓
+
+Depois:
+
+**🚀 Alguém capaz de transformar ideias em soluções.**
+
+---
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## `STATUS: EM DESENVOLVIMENTO...`
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```text
+██████████████████░░ 90%
+```
 
-</div>
+**Ainda estou escrevendo minha história.**
 
----
-
-<div align="center">
-
-### 🚀 `while(alive) { learn(); create(); evolve(); }`
+E este é apenas o começo. 🌌
 
 <br>
 
-**Feito por Paulo • 2026**
-
-⭐ Se você chegou até aqui, obrigado pela visita!
+`© 2026 Paulo`
 
 </div>
