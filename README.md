@@ -1,233 +1,209 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=PAULO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20%7C%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=PAULO&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9B8CFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Paulo!+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas+%F0%9F%92%BB;2%C2%BA+ano+do+Ensino+M%C3%A9dio+%F0%9F%93%9A;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Sempre+aprendendo+algo+novo+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+Inicializando+Paulo.exe...;%3E+Sistema+online.;%3E+Estudante+de+Desenvolvimento+de+Sistemas;%3E+Construindo+o+futuro+com+c%C3%B3digo."/>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=VISITAS&color=6C63FF&style=for-the-badge"/>
+`💻 CODE`　`🧠 LEARN`　`🚀 CREATE`
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mim
+## `01 // IDENTIDADE`
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+```console
+$ whoami
 
-Olá! Eu sou o **Paulo** 👋
+Paulo
 
-Sou estudante do **2º ano do Ensino Médio** no **CEPI Osvaldo**, onde também curso o **Ensino Técnico em Desenvolvimento de Sistemas**.
+$ status
 
-Estou construindo minha jornada na tecnologia, aprendendo programação, desenvolvimento de sistemas e descobrindo novas formas de transformar ideias em projetos.
+ONLINE ●
 
-```js
-const paulo = {
-    idade: "???",
-    escola: "CEPI Osvaldo",
-    ensino: "2º ano do Ensino Médio",
-    curso: "Desenvolvimento de Sistemas",
+$ role
 
-    foco: [
-        "Programação",
-        "Tecnologia",
-        "Projetos",
-        "Aprendizado"
-    ],
+Student / Developer in progress
 
-    objetivo: "Evoluir todos os dias 🚀"
-};
+$ location
+
+CEPI Osvaldo
+
+$ education
+
+2º ano do Ensino Médio
++ Técnico em Desenvolvimento de Sistemas
+
+$ mission
+
+Aprender tecnologia.
+Criar projetos.
+Evoluir constantemente.
 ```
+
+---
+
+## `02 // SOBRE`
+
+<img align="right" width="300" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+Olá! 👋
+
+Eu sou o **Paulo**, estudante do **2º ano do Ensino Médio** no **CEPI Osvaldo** e também curso **Técnico em Desenvolvimento de Sistemas**.
+
+Estou descobrindo o universo da programação e construindo minha experiência através de estudos, projetos e muita curiosidade.
+
+Ainda estou escrevendo minha história na tecnologia.
+
+**Esse GitHub é parte dela.** 🚀
 
 <br clear="right"/>
 
 ---
 
-# ⚡ Minha jornada
+## `03 // SKILLS`
 
 <div align="center">
 
-### `LEARN → CODE → BUILD → FAIL → IMPROVE → REPEAT`
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Aprender+%F0%9F%93%9A;Praticar+%F0%9F%92%BB;Criar+%F0%9F%9B%A0%EF%B8%8F;Errar+%F0%9F%90%9B;Melhorar+%F0%9F%94%A5;Evoluir+%F0%9F%9A%80"/>
-
-</div>
-
----
-
-# 🧠 O que estou aprendendo
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark"/>
 
 <br><br>
 
-| Área                           | Status         |
-| ------------------------------ | -------------- |
-| 🧠 Lógica de programação       | 🟢 Estudando   |
-| 🌐 Desenvolvimento Web         | 🟢 Estudando   |
-| 💻 Desenvolvimento de Sistemas | 🟢 Estudando   |
-| 🔧 Git & GitHub                | 🟡 Aprimorando |
-| 🚀 Novas tecnologias           | ♾️ Sempre      |
+```text
+HTML       █████████░░░░░░░░
+CSS        ████████░░░░░░░░░
+JavaScript ██████░░░░░░░░░░░
+Python     █████░░░░░░░░░░░░
+Git        ███████░░░░░░░░░░
+```
+
+`Conhecimento em evolução...`
 
 </div>
 
 ---
 
-# 🎮 Meu modo desenvolvedor
-
-```text
-╔════════════════════════════════════════════╗
-║                                            ║
-║   👨‍💻 PAULO.exe                            ║
-║                                            ║
-║   [████████████████████░░░░] 85%          ║
-║                                            ║
-║   📚 Learning...                           ║
-║   💻 Coding...                             ║
-║   🧠 Thinking...                           ║
-║   🚀 Building...                           ║
-║                                            ║
-║   STATUS: ONLINE                           ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
-
----
-
-# 🚀 Projetos
+## `04 // PROCESS`
 
 <div align="center">
 
-### `Ainda estou construindo...`
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+```text
+       ┌─────────────┐
+       │    IDEIA    │
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │    CÓDIGO   │
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │    BUG 🐛   │
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │ APRENDIZADO │
+       └──────┬──────┘
+              ↓
+       ┌─────────────┐
+       │  EVOLUÇÃO   │
+       └─────────────┘
+```
 
 </div>
 
-Cada projeto representa uma parte da minha evolução.
+---
 
-Em breve:
+## `05 // PROJETOS`
+
+> **`Loading projects...`**
 
 ```text
-📂 meus-projetos
-│
-├── 🌐 projetos-web
-├── 💻 sistemas
-├── 🧪 experimentos
-├── 🎓 projetos-escolares
-└── 🚀 projetos-pessoais
+[██████████████████░░] 90%
+
+STATUS: BUILDING...
+```
+
+📁 **Projetos escolares**
+📁 **Experimentos**
+📁 **Projetos pessoais**
+📁 **Desenvolvimento Web**
+
+Cada projeto novo = uma habilidade nova desbloqueada. 🔓
+
+---
+
+## `06 // CURRENT MISSION`
+
+```js
+const mission = [
+    "Aprender programação",
+    "Melhorar minha lógica",
+    "Criar projetos",
+    "Conhecer novas tecnologias",
+    "Construir experiência",
+    "Evoluir todos os dias"
+];
+
+mission.forEach(step => {
+    console.log(`🚀 ${step}`);
+});
 ```
 
 ---
 
-# 🌌 Minha filosofia
+## `07 // FUTURE`
 
 <div align="center">
 
-### `"Todo desenvolvedor começa com uma primeira linha de código."`
+### `O código de hoje constrói o desenvolvedor de amanhã.`
 
 <br>
 
-💡 **Ideia**
+🎓 **Estudante**
 
-↓
+⬇️
 
-💻 **Código**
+💻 **Desenvolvedor em formação**
 
-↓
+⬇️
 
-🐛 **Erro**
+🚀 **Projetos reais**
 
-↓
+⬇️
 
-🧠 **Aprendizado**
-
-↓
-
-🚀 **Projeto**
+🌎 **Carreira em tecnologia**
 
 </div>
 
 ---
 
-# 📊 GitHub
+## `08 // GITHUB SYSTEM`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Minha atividade
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-# 🎯 Objetivo
-
-<div align="center">
-
-```text
-                    2026
-                      │
-                      ▼
-                 🎓 ESTUDAR
-                      │
-                      ▼
-                 💻 PRATICAR
-                      │
-                      ▼
-                 🛠️ CRIAR
-                      │
-                      ▼
-                 🧠 APRENDER
-                      │
-                      ▼
-                 🚀 EVOLUIR
-                      │
-                      ▼
-                 🌎 FUTURO
-```
-
-### Quero transformar conhecimento em soluções.
-
-</div>
-
----
-
-# 📫 Onde me encontrar
+## `09 // CONNECTION`
 
 <div align="center">
 
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
+
+`SEMPRE APRENDENDO • SEMPRE CRIANDO • SEMPRE EVOLUINDO`
 
 </div>
 
@@ -235,10 +211,10 @@ Em breve:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 
-### `while (life) { learn(); create(); evolve(); }`
+### `> System.out.println("See you in the next commit.");`
 
-**⭐ Obrigado por visitar meu perfil!**
+**⚡ Paulo • 2026**
 
 </div>
