@@ -1,170 +1,63 @@
- <div align="center">
+# 👋 Olá! Eu sou Paulo
 
-# `PAULO.`
-
-### Desenvolvendo ideias. Construindo possibilidades.
-
-<br>
-
-**🎓 Ensino Médio • 💻 Desenvolvimento de Sistemas • 🚀 Tecnologia**
-
-</div>
+🎓 **Estudante do 2º ano do Ensino Médio**
+💻 **Técnico em Desenvolvimento de Sistemas**
+🏫 **CEPI Osvaldo**
+🚀 Construindo minha jornada na tecnologia
 
 ---
 
-## `> Sobre mim`
+## 🧑‍💻 Sobre mim
 
-```js
-const paulo = {
-    nome: "Paulo",
-    formação: "Ensino Médio + Técnico em Desenvolvimento de Sistemas",
-    instituição: "CEPI Osvaldo",
-    série: "2º ano",
-    área: "Tecnologia",
-    objetivo: "me tornar cada vez melhor no que faço"
-};
-```
+Olá! Eu sou o **Paulo**, estudante do **2º ano do Ensino Médio no CEPI Osvaldo**, onde também faço o **Ensino Técnico em Desenvolvimento de Sistemas**.
 
-Olá! 👋
+Tenho interesse por tecnologia e programação e estou aproveitando minha formação para aprender, criar projetos e desenvolver minhas habilidades.
 
-Sou estudante do **2º ano do Ensino Médio** no **CEPI Osvaldo**, onde também curso **Técnico em Desenvolvimento de Sistemas**.
+Estou construindo minha experiência passo a passo, sempre buscando aprender algo novo e transformar conhecimento em prática. 🚀
 
-Estou no começo da minha jornada na tecnologia, explorando programação, desenvolvimento e tudo que envolve transformar uma ideia em algo que realmente funciona.
-
-Este GitHub é onde pretendo guardar uma parte dessa jornada.
-
-**Projetos, experimentos, erros, aprendizados e evolução.**
+> 💡 **Aprendendo, criando e evoluindo um código de cada vez.**
 
 ---
 
-## `> Minha jornada`
+## 🎓 Formação
+
+🏫 **CEPI Osvaldo**
+📚 **2º ano do Ensino Médio**
+💻 **Ensino Técnico em Desenvolvimento de Sistemas**
+
+---
+
+## 🚀 Atualmente
+
+* 💻 Estudando programação
+* 🧠 Desenvolvendo minha lógica
+* 🛠️ Criando projetos
+* 📚 Aprendendo novas tecnologias
+* 🌱 Evoluindo minhas habilidades
+* 🎯 Me preparando para o futuro na área de tecnologia
+
+---
+
+## 📈 Minha jornada
 
 ```text
-             2026
-               │
-               ▼
-        ┌──────────────┐
-        │    APRENDER  │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   PRATICAR   │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │    CRIAR     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │   EVOLUIR    │
-        └──────┬───────┘
-               │
-               └───────────► 🚀
+📚 Estudar
+   ↓
+💻 Praticar
+   ↓
+🛠️ Criar projetos
+   ↓
+🐛 Errar e aprender
+   ↓
+🚀 Evoluir
 ```
-
-Não quero apenas aprender a linguagem.
-
-Quero aprender a **pensar como alguém que resolve problemas**.
-
----
-
-## `> O que estou estudando`
-
-### 💻 Desenvolvimento
-
-```text
-▸ Lógica de programação
-▸ Desenvolvimento de sistemas
-▸ Desenvolvimento web
-▸ Estrutura e organização de projetos
-▸ Git & GitHub
-```
-
-### 🧠 Habilidades
-
-```text
-01. Curiosidade
-02. Criatividade
-03. Resolução de problemas
-04. Trabalho em equipe
-05. Aprendizado contínuo
-```
-
----
-
-## `> Projetos`
-
-### 🔨 Construindo...
-
-Meu GitHub ainda está no começo — e isso faz parte da história.
-
-Cada projeto que aparecer aqui vai representar algo que aprendi.
-
-```text
-📁 projects
-│
-├── 🌐 web
-├── 💻 systems
-├── 🧪 experiments
-└── 🚀 future-projects
-```
-
-**Primeiro projeto → primeiro passo.**
-**Segundo projeto → mais experiência.**
-**Décimo projeto → outra versão de mim.**
-
----
-
-## `> Minha visão`
-
-> **"Você não precisa saber tudo para começar.
-> Precisa começar para aprender."**
-
-A tecnologia muda todos os dias.
-
-Por isso, meu objetivo não é saber tudo.
-
-É continuar aprendendo.
-
----
-
-## `> Futuro`
-
-Hoje:
-
-**🎓 Estudante**
-
-↓
-
-Amanhã:
-
-**💻 Desenvolvedor**
-
-↓
-
-Depois:
-
-**🚀 Alguém capaz de transformar ideias em soluções.**
 
 ---
 
 <div align="center">
 
-## `STATUS: EM DESENVOLVIMENTO...`
+### 💻 "O futuro começa com o que você aprende hoje."
 
-```text
-██████████████████░░ 90%
-```
-
-**Ainda estou escrevendo minha história.**
-
-E este é apenas o começo. 🌌
-
-<br>
-
-`© 2026 Paulo`
+⭐ Obrigado por visitar meu perfil!
 
 </div>
