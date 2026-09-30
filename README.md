@@ -30,24 +30,6 @@ Ainda existem muitos caminhos para explorar, muitos projetos para criar e, prova
 
 ## ⚡ `THE MAGIC OF CODE`
 
-```text
-                    ✦
-                   ╱ ╲
-                  ╱   ╲
-                 ╱_____╲
-                    │
-                    │
-              📖    │    💻
-                ╲   │   ╱
-                 ╲  │  ╱
-                  ╲ │ ╱
-                   ╲│╱
-                    ▼
-
-              IDEA → CODE → MAGIC
-                           ✨
-```
-
 </div>
 
 ---
