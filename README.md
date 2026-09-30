@@ -25,13 +25,6 @@ Entre livros, códigos e ideias, estou construindo minha própria história na t
 Ainda existem muitos caminhos para explorar, muitos projetos para criar e, provavelmente, muitos bugs para derrotar. 🐉
 
 ---
-
-<div align="center">
-
-## ⚡ `THE MAGIC OF CODE`
-
-</div>
-
 ---
 
 ## 🦉 `CURRENT QUEST`
